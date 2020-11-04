@@ -36,7 +36,7 @@ Schermopname desktop homepage: https://youtu.be/pOT3MILSmR8
 ## Hoe gaat het nu?
 Het gaat nog steeds niet goed omdat ik veel tijd nodig heb met het nadenken en zoeken naar wat ik nodig heb. Dit is opzich heel goed omdat je daarvan natuurlijk leert, maar er is dus veel tijd voorbij en dan weinig visuele voortgang wat jammer is en frustrerend. Ik ben dan wel weer heel trots hoe het er nu uitziet, veel beter en verder als ik hiervoor was met andere sites. Ik heb dan ook wel vooruitgang gemaakt in het snappen en werken met CSS, alleen duurt dat proces bij mij helaas lang. 
 
-**mijn plan voor nu**
+**mijn plan voor nu:**
 Mijn idee voor nu is gewoon verder werken met wat ik nu heb zodat ik elke keer door kan gaan en vooruitgang kan boeken. Dus gewoon bezig blijven en mensen blijven vragen om mij te helpen zodat ik steeds meer leer en het steeds makkelijker kan maken. 
 
 ## Eindgesprek (week 7/8)
