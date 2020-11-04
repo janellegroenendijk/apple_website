@@ -28,6 +28,10 @@ Vanaf nu ga ik een paar weken knallen om te zorgen dat ik Front-end nog dit jaar
 Ik vindt het HTML maken van een site niet super moeilijk, maar het maken van de styling wel. Vaak snap ik als iemand anders de styling maakt wel wat er gebeurd en waarom, maar kom ik zelf niet op het idee of op de term die ik moet gebruiken.
 Aan mij de taak om niet snel op te geven, dingen proberen op te zoeken en mensen te vragen om mij dingen uit te leggen en te helpen. 
 
+## ORIGINELE WEBSITE
+Ik heb geprobeerd gifs te uploaden maar die waren helaas te groot. Daarom heb ik ze verborgen op mijn youtube gezet en kunt u ze bekijken via deze linkjes:
+Schermopname mobiel homepage: https://youtu.be/h1bhOUalbmc 
+Schermopname desktop homepage: https://youtu.be/pOT3MILSmR8
 
 ## Eindgesprek (week 7/8)
 
